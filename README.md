@@ -1,7 +1,5 @@
-Hi, I am Huy [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi! I am Huy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
-
-A tech geek with deep passion for innovation and design. Electrical Engineer on paper, Software Engineer by trade, and a Tinkerer at heart.
 
 ### Skills
 
