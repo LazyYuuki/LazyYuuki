@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Yuuki
+Hi, I am Huy [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-![Metrics](https://metrics.lecoq.io/LazyYuuki?template=classic&base.header=0&introduction=1&habits=1&stars=1&lines=1&languages=1&fortune=1&activity=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&fortune=false&config.timezone=Asia%2FSingapore)
+A tech geek with deep passion for innovation and design. Electrical Engineer on paper, Software Engineer by trade, and a Tinkerer at heart.
 
 ### Skills
 
@@ -27,17 +27,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-### Badges
+### Check out my stats
 
-<a href="http://www.github.com/LazyYuuki"><img src="https://activity-graph.herokuapp.com/graph?username=LazyYuuki&bg_color=1c1917&color=14b8a6&line=ec4899&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/LazyYuuki"><img src="https://github-readme-stats.vercel.app/api?username=LazyYuuki&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="LazyYuuki's GitHub stats" /></a>
 
 <a href="https://github.com/LazyYuuki" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyYuuki&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="http://www.github.com/LazyYuuki"><img src="https://activity-graph.herokuapp.com/graph?username=LazyYuuki&bg_color=1c1917&color=14b8a6&line=ec4899&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### Socials
+
+### Find me on
 
 <p align="left"> <a href="https://www.dev.to/lazyyuuki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/LazyYuuki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/buiquanghuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@LazyYuuki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16077229/yuuki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Support Me
+### Support Me at
 
 <a href="https://www.buymeacoffee.com/LazyYuuki"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
