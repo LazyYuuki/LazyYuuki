@@ -33,6 +33,7 @@ Hi! I am Huy ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 <a href="http://www.github.com/LazyYuuki"><img src="https://activity-graph.herokuapp.com/graph?username=LazyYuuki&bg_color=1c1917&color=14b8a6&line=ec4899&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://app.daily.dev/LazyYuuki"><img src="https://api.daily.dev/devcards/3b5d5efe7d1049feb5da0965f3ce3f0b.png?r=0wx" width="400" alt="Yuuki's Dev Card"/></a>
 
 ### Find me on
 
