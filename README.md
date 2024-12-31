@@ -3,11 +3,11 @@ Hi! I am Huy ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 ### Skills
 
-I really like programming language, so when I have the chance I will pick up new one as I go along. The goal is probably to make my own language one day for fun. I don't count decorator as language such as Typescript, nothing against it. I use it daily. I just don't think it is qualified as a language anymore than HTML is one. Currently, I am most enticed by Zig.
+I really like programming language, so when I have the chance I will pick up new one as I go along. The goal is probably to make my own language one day for fun. I don't count decorator as language such as Typescript, nothing against it. I use it daily. I just don't think it is qualified as a language anymore than HTML is one. Currently, I am most enticed by Zig. (PS: I know that is not Rust logo, but who told them to use literally black as the color, it won't show up against dark theme, which is like 99% of the Github's population)
 
 <p align="left">
 <a href="https://ziglang.org/" target="_blank" rel="noreferrer"><img src="https://ziglang.org/zig-logo-light.svg" height="36" alt="Zig" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="36" alt="Rust" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://rustacean.net/assets/rustacean-flat-happy.png" height="36" alt="Rust" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://isocpp.org/assets/images/cpp_logo.png" height="36" alt="C++" /></a>
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="36" alt="C" /></a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/images/go-logo-white.svg" height="36" alt="Go" /></a>
