@@ -20,7 +20,7 @@ I really like programming language, so when I have the chance I will pick up new
 
 <a href="http://www.github.com/LazyYuuki"><img src="https://github-readme-stats.vercel.app/api?username=LazyYuuki&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="LazyYuuki's GitHub stats" /></a>
 
-This stats is 100% skewered, I don't write that much Python comparatively to JS and Rust. It is probably caused by all fork repository with a ton of Python library code in it, and with no access to my private repository for comparison. This is why Python is such a huge headache. Take this with a grain of salt, but it looks fun so I put it here regardless.
+This stats is 100% skewered, I don't write that much Python comparatively to JS, Rust, Zig and C/C++. It is probably caused by all fork repository with a ton of Python library code in it, and with no access to my private repository for comparison. This is why Python is such a huge headache. Take this with a grain of salt, but it looks fun so I put it here regardless.
 
 <a href="https://github.com/LazyYuuki" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyYuuki&langs_count=12&title_color=ffffff&text_color=14b8a6&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Public%20%Languages&layout=compact&theme=highcontrast" alt="Top Languages" /></a>
 
